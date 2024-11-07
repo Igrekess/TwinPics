@@ -5,7 +5,7 @@ TwinPics is a script suite for Capture One that automates variant creation when 
 - `TwinPics.applescript`: Configuration interface
 - `TwinPicsOnBackground.applescript`: Background automation handle
 
-[![twinpics](https://github.com/Igrekess/TwinPics/blob/main/img/twinpics.gif)] ## Requirements
+[![twinpics](https://github.com/Igrekess/TwinPics/blob/main/img/twinpics.gif)]
 
 - macOS 10.10 (Yosemite) or later
 - Capture One
