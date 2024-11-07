@@ -22,13 +22,13 @@ TwinPics is a script suite for Capture One that automates variant creation when 
 
 3. Due to a bug, launching a script via the Capture One menu with the mouse does not work consistently. Occasionally, selecting the script manually from the menu fails to execute it as expected. This inconsistency suggests that alternative triggers may be necessary for reliable execution. I strongly recommend configuring a keyboard shortcut for TwinPics:
 
-    Open System Preferences and go to Keyboard.
-    Select the Shortcuts tab, then click on App Shortcuts in the sidebar.
-    Click the + button to add a new shortcut.
-    In the Application dropdown, select Capture One.
-    In the Menu Title field, type the exact name of the menu command you want to assign a shortcut to (e.g., "TwinPics").
-    In the Keyboard Shortcut field, press the key combination you’d like to use.
-    Click Add to save the shortcut.
+    - Open **System Preferences** and go to **Keyboard**.
+    - Select the **Shortcuts** tab, then click on **App Shortcuts** in the sidebar.
+    - Click the **+** button to add a new shortcut.
+    - In the **Application** dropdown, select **Capture One**.
+    - In the **Menu Title** field, type the exact name of the menu command you want to assign a shortcut to (e.g., "TwinPics").
+    - In the **Keyboard** Shortcut field, press the key combination you’d like to use.
+    - Click **Add** to save the shortcut.
    
 ## Configuration (TwinPics.applescript)
 
