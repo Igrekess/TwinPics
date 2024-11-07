@@ -20,6 +20,15 @@ TwinPics is a script suite for Capture One that automates variant creation when 
 - PrefsStorageLib
 - Dialog Toolkit Plus
 
+3. Configure a keyboard shortcut for TwinPics
+- Open System Preferences and go to Keyboard.
+- Select the Shortcuts tab, then click on App Shortcuts in the sidebar.
+- Click the + button to add a new shortcut.
+- In the Application dropdown, select Capture One.
+- In the Menu Title field, type the exact name of the menu command you want to assign a shortcut to (e.g., "TwinPics").
+- In the Keyboard Shortcut field, press the key combination you’d like to use.
+- Click Add to save the shortcut.
+
 ## Configuration (TwinPics.applescript)
 
 Launch TwinPics.applescript to configure automation preferences through a GUI:
