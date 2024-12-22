@@ -14,13 +14,15 @@ TwinPics is a script suite for Capture One that automates variant creation when 
 
 ## Installation
 
-1. Place TwinPics.applescript in your capture one scripts folder, and TwinPicsOnBackground in your capture one scripts folder / background scripts.
+1. Download the compiled app [zip archive here](https://github.com/Igrekess/TwinPics/blob/4f1e8d1f409be970fe3c2f7335eb794b47c21a73/TwinPics.zip) or the applescript files.
 
-2. Install required libraries (optionel if you use the app compiled bundle files,[zip archive here](/CompiledApp), its included):
+2. Place TwinPics in your capture one scripts folder, and TwinPicsOnBackground in your capture one scripts folder / background scripts.
+
+3. (optionel) Install required libraries only if you choose to install the raw applescript :
 - PrefsStorageLib
 - Dialog Toolkit Plus
 
-3. Due to a bug, launching a script via the Capture One menu with the mouse does not work consistently. Occasionally, selecting the script manually from the menu fails to execute it as expected. This inconsistency suggests that alternative triggers may be necessary for reliable execution. I strongly recommend configuring a keyboard shortcut for TwinPics:
+4. I strongly recommend configuring a keyboard shortcut for TwinPics:
 
     - Open **System Preferences** and go to **Keyboard**.
     - Select the **Shortcuts** tab, then click on **App Shortcuts** in the sidebar.
