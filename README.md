@@ -16,7 +16,7 @@ TwinPics is a script suite for Capture One that automates variant creation when 
 
 1. Place TwinPics.applescript in your capture one scripts folder, and TwinPicsOnBackground in your capture one scripts folder / background scripts.
 
-2. Install required libraries (optionel if you use the run-only compiled bundle scptd files,[zip archive here](/CompiledApp), its included):
+2. Install required libraries (optionel if you use the app compiled bundle files,[zip archive here](/CompiledApp), its included):
 - PrefsStorageLib
 - Dialog Toolkit Plus
 
