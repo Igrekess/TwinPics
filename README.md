@@ -1,4 +1,4 @@
-## DOWNLOAD LAST RELEASE : https://github.com/Igrekess/TwinPics/releases/tag/0.2
+# ‣‣‣ [TwinPics Last Release](https://github.com/Igrekess/TwinPics/releases)
 
 # TwinPics Scripts Documentation
 
