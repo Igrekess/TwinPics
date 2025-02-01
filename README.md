@@ -16,9 +16,9 @@ TwinPics is a script suite for Capture One that automates variant creation when 
 
 ## Installation
 
-1. Download the compiled app [zip archive here](https://github.com/Igrekess/TwinPics/blob/4f1e8d1f409be970fe3c2f7335eb794b47c21a73/TwinPics.zip) or the applescript files.
+1. Download the laste realease [zip archive here](https://github.com/Igrekess/TwinPics/releases/tag/0.2) or the applescript files.
 
-2. Place TwinPics in your capture one scripts folder, and TwinPicsOnBackground in your capture one scripts folder / background scripts.
+2. Place TwinPics in your capture one scripts folder.
 
 3. (optionel) Install required libraries only if you choose to install the raw applescript :
 - PrefsStorageLib
