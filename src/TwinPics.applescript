@@ -4,7 +4,7 @@ use script "Dialog Toolkit Plus" version "1.1.3"
 use script "PrefsStorageLib" version "1.1.0"
 
 -- Initialiser les valeurs par défaut
-prepare storage for domain "com.yse.twinpics" default values {variationSelected:"B&W / Color", selectedPreset:"", TwinPicsOn:false, VariantType:"", viewSelection:"A", TwinPickeywords:"Twin"}
+prepare storage for domain "com.dityan.twinpics" default values {variationSelected:"B&W / Color", selectedPreset:"", TwinPicsOn:false, VariantType:"", viewSelection:"A", TwinPickeywords:"Twin"}
 
 property variationTypes : {"Flat Raw", "B&W / Color", "Preset"}
 property TwinPickeywords : {}
