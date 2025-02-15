@@ -1,5 +1,5 @@
 
-<img src="imgs/twinpics.png" alt="TwinPics app logo" width="95"/>
+<img src="twinpics.png" alt="TwinPics app logo" width="95"/>
 # ‣‣‣ [TwinPics Last Release](https://github.com/Igrekess/TwinPics/releases)
 
 # TwinPics Scripts Documentation
