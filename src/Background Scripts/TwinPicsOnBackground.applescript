@@ -21,7 +21,7 @@ end repeat
 
 
 on CO_CaptureDone(rawFilePath)
-	prepare storage for domain "com.yse.twinpics"
+	prepare storage for domain "com.dityan.twinpics"
 	set variationSelected to value for key "variationSelected"
 	set selectedPreset to value for key "selectedPreset"
 	set TwinPicsOn to value for key "TwinPicsOn"
