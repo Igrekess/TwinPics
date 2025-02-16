@@ -34,7 +34,7 @@ set theTop to spacer
 set {theButtons, minWidth} to create buttons {"Cancel", "SAVE"} default button 2 given «class btns»:2
 if minWidth > accViewWidth then set accViewWidth to minWidth -- make sure buttons fit
 -- Créer la fenêtre de dialogue
-set {createdByLabel, theTop} to create label "* created by yan senez - 2024 - v 0.2 - www.dityse.com *" bottom (0) max width accViewWidth control size small size aligns center aligned without bold type
+set {createdByLabel, theTop} to create label "* created by yan senez - 2024 - v 0.3 - www.dityan.com *" bottom (0) max width accViewWidth control size small size aligns center aligned without bold type
 set {theRule2, theTop} to create rule (theTop + spacer) rule width accViewWidth
 set {keywords_Field, keywords_Label, theTop} to create top labeled field keywordsString bottom (theTop + spacer) field width accViewWidth label text "Keyword tag (separate with commas):" left inset 0 without accepts linebreak and tab
 set {theMatrixViewValue, theTop} to create matrix {"A", "B", "A&B"} left inset 0 bottom (theTop + spacer) max width accViewWidth initial choice viewSelection without arranged vertically
