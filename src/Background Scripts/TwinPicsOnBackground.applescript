@@ -7,7 +7,7 @@ use AppleScript version "2.4" -- Yosemite (10.10) or later
 use scripting additions
 use script "PrefsStorageLib" version "1.1.0"
 
-prepare storage for domain "com.dityan.twinpics"
+prepare storage for domain "com.yse.twinpics"
 set variationSelected to value for key "variationSelected"
 set selectedPreset to value for key "selectedPreset"
 set TwinPicsOn to value for key "TwinPicsOn"
@@ -31,7 +31,7 @@ on CO_CaptureDone(rawFilePath)
 end CO_CaptureDone
 
 on createVariant(rawFilePath)
-	prepare storage for domain "com.yse.twinpics"
+	prepare storage for domain "com.dityan.twinpics"
 	set {variationSelected, selectedPreset, TwinPicsOn, viewSelection, VariantType, TwinPickeywords} to ¬
 		{value for key "variationSelected", value for key "selectedPreset", value for key "TwinPicsOn", ¬
 			value for key "viewSelection", value for key "VariantType", value for key "TwinPickeywords"}
